@@ -1,5 +1,9 @@
 https://www.codecademy.com/learn/learn-sass
 
+
+sass main.scss main.css
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
