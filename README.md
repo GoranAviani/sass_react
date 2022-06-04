@@ -2,7 +2,10 @@ https://www.codecademy.com/learn/learn-sass
 
 
 sass main.scss main.css
+The sass command above takes in two arguments:
 
+The input (main.scss)
+The location of where to place that output (main.css)
 
 # Getting Started with Create React App
 
