@@ -1,4 +1,3 @@
-https://www.codecademy.com/learn/learn-sass
 
 
 sass main.scss main.css
