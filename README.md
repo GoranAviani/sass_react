@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=kpcjSaRngg8
 
 sass main.scss main.css
 The sass command above takes in two arguments:
