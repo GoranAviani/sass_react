@@ -1,3 +1,11 @@
+https://www.youtube.com/watch?v=kpcjSaRngg8
+
+sass main.scss main.css
+The sass command above takes in two arguments:
+
+The input (main.scss)
+The location of where to place that output (main.css)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
