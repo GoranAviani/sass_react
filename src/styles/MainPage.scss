@@ -1,7 +1,13 @@
+
+
 .mainPage {
   height: 500px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: $red;
+  background: $redColor;
+
+  h1 {
+    color: $whiteColor;
+  }
 }
