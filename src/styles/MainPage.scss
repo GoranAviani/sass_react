@@ -14,5 +14,5 @@
 }
 
 button {
-  @include buttonStyle();
+  @include buttonStyle($redColor, 40px);
 }
