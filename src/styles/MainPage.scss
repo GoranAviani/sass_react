@@ -1,5 +1,6 @@
 @import '../variables/variables.scss';
 
+
 .mainPage {
   height: 500px;
   display: flex;
@@ -10,4 +11,12 @@
   h1 {
     color: $whiteColor;
   }
+
+  button {
+    @include buttonStyle($redColor, 40px);
+  }
+
+
 }
+
+

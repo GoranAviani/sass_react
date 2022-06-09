@@ -1,3 +1,11 @@
 $blackColor: rgb(24, 24, 25);
 $whiteColor: rgb(232, 232, 232);
 $redColor: red;
+
+@mixin buttonStyle($color, $fontSize) {
+  width: 200px;
+  height: 40px;
+  background-color: $color;
+  color: $whiteColor;
+  font-size: $fontSize;
+}

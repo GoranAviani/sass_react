@@ -3,10 +3,25 @@
   height: 80px;
   background: rgb(24, 24, 25);
 }
+.navbar button {
+  width: 200px;
+  height: 40px;
+  background-color: purple;
+  color: rgb(232, 232, 232);
+  font-size: 20px;
+}
 
 .navbar a {
   color: rgb(232, 232, 232);
   font-size: 30px;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  background-color: pink;
+  color: rgb(232, 232, 232);
+  font-size: 10px;
 }
 
 /*# sourceMappingURL=Navbar.css.map */
