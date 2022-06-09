@@ -1,12 +1,5 @@
 @import '../variables/variables.scss';
 
-@mixin buttonStyle {
-  width: 200px;
-  height: 40px;
-  background-color: $redColor;
-  color: $whiteColor;
-  font-size: 25px;
-}
 
 .mainPage {
   height: 500px;
