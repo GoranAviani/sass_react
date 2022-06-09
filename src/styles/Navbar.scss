@@ -13,5 +13,5 @@
 }
 
 button {
-  @include buttonStyle();
+  @include buttonStyle($blackColor,20px);
 }
