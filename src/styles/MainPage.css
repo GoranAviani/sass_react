@@ -8,8 +8,7 @@
 .mainPage h1 {
   color: rgb(232, 232, 232);
 }
-
-button {
+.mainPage button {
   width: 200px;
   height: 40px;
   background-color: red;
